@@ -1,0 +1,21 @@
+{
+  "name": "govisca",
+  "version": "0.0.1",
+  "description": "learning go and the visca protocol... at the same time muwahahahaha",
+  "main": "index.js",
+  "scripts": {
+    "go:run": "scripts/run.sh",
+    "go:get": "scripts/get.sh",
+    "go:build": "scripts/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholaswagner/govisca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholaswagner/govisca/issues"
+  },
+  "homepage": "https://github.com/nicholaswagner/govisca#readme"
+}
